@@ -12,7 +12,7 @@ BaselineOfTalkFFI >> baseline: spec [
 		spec blessing: #'baseline'.
 		spec 
 			baseline: 'LibClang' with: [
-				spec repository: 'github://estebanlm/libclang-pharo-bindings' ].
+				spec repository: 'github://bencoman/libclang-pharo-bindings' ].
 		spec 
 			package: 'TalkFFI-Runtime';
 			package: 'TalkFFI-Announcements';
